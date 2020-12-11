@@ -1,4 +1,4 @@
-### Hi there 👋 I am BracketByte!
+# Hi there 👋 I am BracketByte!
 - 🌱 I’m currently learning C# for an open source project!
 
 - 📫 How to reach me on:
