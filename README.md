@@ -3,6 +3,6 @@
 
 - 📫 You can reach me on:
 
-        -EMAIL: bracketbyte@e.email
+      -EMAIL: bracketbyte@e.email
 
 ## More info about me comes in the future!
